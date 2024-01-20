@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rifqee23
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Basic Web Development
-- 💞️ I’m looking to collaborate on exciting web development projects.
+- 💞️ I’m looking to collaborate on exciting web development projects. But i still newbie for do that. So, I will learn a lot
 - 📫 You can reach me through my email rifqifebrianto746@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you now that Recent studies show that around 70% of coding jobs have nothing to do with technology at all?

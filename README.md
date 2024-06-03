@@ -13,5 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqee23)](https://github.com/rifqee23/github-readme-stats)
-![snake animation](https://github.com/rifqee23/rifqee23/blob/output/github-contribution-grid-snake2.svg)
 

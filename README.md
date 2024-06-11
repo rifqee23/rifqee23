@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqee23)](https://github.com/rifqee23/github-readme-stats)
-
+[![](https://komarev.com/ghpvc/?username=rizkytegar&label=rizkytegar+profile+visitor&style=for-the-badge)
+](https://komarev.com/ghpvc/?username=rizkytegar&label=rizkytegar+profile+visitor&style=for-the-badge)

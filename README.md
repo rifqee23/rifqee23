@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rifqi Febrianto</h1>
 
 # 💫 About Me:
-A passionate frontend developer
+A passionate Fullstack developer
 
 You can view my portfolio website by visiting the following link: [View My Portfolio](https://personal-portfolio-pi-hazel.vercel.app/).
 
